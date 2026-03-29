@@ -324,6 +324,7 @@ Want all playbooks in one comprehensive package? Get the **Open-Source Project I
 - 💬 Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
 - 🐦 Twitter: [@WeiYipei](https://x.com/WeiYipei)
 - 📱 即刻: 生姜iris
+- 📧 公众号: 云宝的桃花坞
 
 ### Consulting
 
